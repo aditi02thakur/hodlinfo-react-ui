@@ -1,0 +1,196 @@
+.App {
+  text-align: center;
+}
+
+.applogo {
+  margin: 25px;
+  width:400px;
+  height:auto;
+  display: inline-block;
+  float: left;
+  margin: 10px;
+}
+.aaa{
+  background-color: #343a40;
+  padding:10px;
+}
+.a111{
+  width:300px;
+  height:auto;
+  float:left;
+  padding-left: 10px;
+  position: relative;
+  left: 100px;
+}
+.headd{
+  color: #3dc6c1;
+  font-size: 50px;
+}
+.subheadd{
+  color: gray;
+}
+.headdd{
+  color:white;
+  font-size: 40px;
+  font-style: inherit;
+  font-family: serif;
+}
+
+.a222{
+  width:300px;
+  height:auto;
+  float:left;
+  position: relative;
+  left: 125px;
+}
+.a333{
+  width: 300px;
+  height: auto;
+  float:center;
+  position: relative;
+  left: 800px;
+  bottom: 90px;
+}
+
+.a444{
+  width:300px;
+  height:auto;
+  float:right;
+  position: relative;
+  right: 200px;
+  bottom: 240px;
+}
+.a555{
+  width:300px;
+  height:auto;
+  float: right;
+  position: relative;
+  right:175px;
+  bottom: 240px;
+}
+
+.boxtele{
+  float: left;
+  margin: 20px;
+}
+
+.teleimg{
+  height: 30px;
+  width: 30px;
+  vertical-align: left;
+  box-sizing: border-box;
+}
+.contel{
+  text-align: center;
+}
+
+.telegram{
+  width: 200px;
+  height: 80px;
+  background:#3dc6c1;
+  color: #fff;
+  border-radius: 30px;
+  margin-right:50px;
+  float: right;
+  position: relative;
+  bottom: 80px;
+}
+
+
+.top{
+  width:100%;
+  height: 100px;
+  background-color: #343a40;
+}
+.cryptoimg{
+  background-color: #343a40;
+  position: relative;
+  bottom:80px;
+}
+
+.btngrp{
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+  background-color: transparent;
+  width:500px;
+}
+.bptt{
+  width:auto;
+  height:auto;
+  background-color:  #343a40;
+  text-align:center;
+  font-size: 22px;
+  box-sizing: border-box;
+  padding : 10px;
+  position: relative;
+  left: 120px;
+
+}
+.bptt2{
+  font-size: 22px;
+  font-family: Oswald,sans-serif;
+  color: gray;
+}
+
+.btnn1{
+  width: 100px;
+  height: auto;
+  margin-left: 100px;
+  padding: 10px;
+  background-color:transparent;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.btnn2{
+  width: 100px;
+  height: auto;
+  margin-left: 100px;
+  padding: 10px;
+  background-color:transparent;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.btnn3{
+  width: 100px;
+  height: auto;
+  margin-left: 100px;
+  padding: 10px;
+  background-color:transparent;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.dropdown-item{
+  position: absolute;
+   will-change: transform; 
+   top: 0px; left: 0px; transform:
+    translate3d(5px, 36px, 0px);
+}
+
+
+.App-header {
+  background-color: #636874;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.tablee{
+  position: relative;
+  bottom:52px;
+}
+.banner{
+  position: relative;
+  bottom:54px;
+  background-color:#343a40;
+}
